@@ -1,0 +1,1 @@
+web: sh setup.sh && Python Legal_CR_Summary_Flask_API.py
